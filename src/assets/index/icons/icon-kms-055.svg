@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="50px" viewBox="0 0 41 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-kms-05</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="kms-" transform="translate(-940.000000, -862.000000)">
+            <g id="Group-4-Copy-3" transform="translate(400.000000, 770.000000)">
+                <g id="Group-5-Copy" transform="translate(408.000000, 92.000000)">
+                    <g id="icon-kms-05" transform="translate(132.000000, 0.000000)">
+                        <path d="M20.3804348,0 L40.7608696,9.05797098 L40.7608696,22.6449275 C40.7608696,35.2128623 32.0652174,46.9655797 20.3804348,49.8188405 C8.69565217,46.9655797 0,35.2128623 0,22.6449275 L0,9.05797098 L20.3804348,0 Z" id="Path" fill="#A0DFF9" fill-rule="nonzero"></path>
+                        <path d="M18.6662138,25.4384624 L13.8586957,20.6354733 C12.9701565,19.7772936 11.5577792,19.7895669 10.6842878,20.6630582 C9.81079652,21.5365495 9.79852325,22.9489268 10.6567029,23.837466 L15.459692,28.6404552 L17.0629529,30.2414515 C17.947237,31.1254686 19.3806616,31.1254686 20.2649457,30.2414515 L31.4741848,19.0322124 C32.3317567,18.1430696 32.3184943,16.7306842 31.4443767,15.8578022 C30.5702592,14.9849202 29.1578565,14.9736554 28.2699276,15.8324841 L18.6639493,25.4384624 L18.6662138,25.4384624 Z" id="Path" fill="#443D4E" fill-rule="nonzero"></path>
+                        <text id="KYC" font-family="PingFangSC-Medium, PingFang SC" font-size="8" font-weight="400" fill="#009AC9">
+                            <tspan x="12.008" y="42">KYC</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
